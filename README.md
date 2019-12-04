@@ -40,7 +40,7 @@ Database "~/test" not found, and IFEXISTS=true, so we cant auto-create it [90146
 
 결국 웹 콘솔에서는 생성할 수 없다는 결론을 Stackoverflow에서 확인했다.
 
-## 그렇다면 너는 어떻게 해겷했니??
+## 그렇다면 너는 어떻게 해했니??
 
 그냥 다음과 같이 터미널에서 생성해 버렸다.
 
@@ -131,7 +131,7 @@ sudo chmod 777 h2.sh
 
 그냥 터미널에 익숙해 질겸 터미널에서 하는걸로...
 
-# 다시 삽질 끝네...
+# 다시 삽질 끝에......
 
 create new database...를 클릭하게 되면 뜨는 입력 팝업창의 path가 ./test이다.
 
