@@ -40,7 +40,7 @@ Database "~/test" not found, and IFEXISTS=true, so we cant auto-create it [90146
 
 결국 웹 콘솔에서는 생성할 수 없다는 결론을 Stackoverflow에서 확인했다.
 
-## 그렇다면 너는 어떻게 해했니??
+## 그렇다면 너는 어떻게 해결했니??
 
 그냥 다음과 같이 터미널에서 생성해 버렸다.
 
